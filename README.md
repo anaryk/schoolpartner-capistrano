@@ -1,0 +1,1 @@
+# schoolpartner-capistrano
