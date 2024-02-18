@@ -1,0 +1,1 @@
+PATH_TO_KEY = ".ssh/id_rsa"
